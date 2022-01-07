@@ -69,3 +69,17 @@ body {
 
 }
 
+.navigators {
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+
+}
+
+.buttons {
+    display: flex;
+
+    align-items: center;
+    gap: 20px;
+    color: white;
+}
