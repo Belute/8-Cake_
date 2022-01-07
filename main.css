@@ -35,11 +35,6 @@ body {
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
-
-    
-
-
-
     position: absolute;
 }
 
@@ -75,53 +70,3 @@ body {
 }
 
 /* .main-title {
-    display: inline-block;
-    width: 100%;
-    font-size: 32px;
-    font-weight: normal;
-} */
-
-/* .bottom-links {
-    display: inline-block;
-    position: absolute;
-    bottom: 20px;
-    left: 40px;
-    right: 40px;
-}
-
-.bottom-links > .link {
-    color: #fff;
-    font-size: 14px; */
-}
-/* 
-.bottom-links > .symbol {
-}
-
-
- */
-
-
-
-/* 
-.right-column span {
-    display: inline-block;
-    padding: 15px;
-    padding-left: 10px;
-    padding-right: 10px;
-    margin-left: 10px;
-    line-height: 20px;
-    font-size: 18px;
-} */
-/* 
-.right-column a {
-    display: inline-block;
-    padding: 15px;
-    padding-left: 10px;
-    padding-right: 10px;
-    line-height: 20px;
-    font-size: 18px;
-    text-decoration: none;
-}
-.right-column a:hover {
-    text-decoration: underline;
-} */
