@@ -74,15 +74,12 @@ body {
 .navigators {
     display: flex;
     flex-direction: row;
-    gap:20px;
+    gap:150px;
     color: #fff;
 
 }
 
-.container  .navigators  .buttons {
-    display: flex;
-    align-items: center;
-    gap: 20px;
-    color: whitesmoke;
-
+.buttons {
+    color: white;
+    gap:20px;
 }
