@@ -52,6 +52,7 @@ body {
     position: absolute;
     top: 30px;
     bottom: 30px;
+    border-radius: 20px;
     
 }
 
@@ -63,6 +64,7 @@ body {
     flex-direction: column;
     align-items: center;
     float: right;
+    border-radius: 50%;
     
    
 
@@ -72,13 +74,13 @@ body {
 .navigators {
     display: flex;
     flex-direction: row;
-    gap: 20px;
+    gap:20px;
+    color: #fff;
 
 }
 
-.buttons {
+.container  .navigators  .buttons {
     display: flex;
-
     align-items: center;
     gap: 20px;
     color: white;
