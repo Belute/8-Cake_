@@ -80,6 +80,37 @@ body {
 }
 
 .buttons {
+    display: flex;
+    flex-direction: row;
+    gap:30px;
+}
+
+.home {
+    display: flex;
+    flex-direction: row;
     color: white;
     gap:20px;
+    
 }
+
+.package {
+    display: flex;
+    flex-direction: row;
+    color: white;
+     gap:20px;
+    
+}
+
+.contact {
+    display: flex;
+    flex-direction: row;
+    color: white;
+     gap:20px;
+    
+}
+
+.texts > .title1 {
+    margin-top: 70px;
+}
+
+.texts 
