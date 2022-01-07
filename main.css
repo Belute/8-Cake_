@@ -75,3 +75,11 @@ body {
     gap: 20px;
 
 }
+
+.buttons {
+    display: flex;
+
+    align-items: center;
+    gap: 20px;
+    color: white;
+}
