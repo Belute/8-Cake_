@@ -6,7 +6,7 @@
 
 This project is for educational porpuses only. 
 
-Site published at https://belute.github.io/Mergaite_html_css/
+Site published at https://belute.github.io/Cake_html_css/
 
 
 
