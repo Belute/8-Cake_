@@ -19,4 +19,4 @@ Site published at https://belute.github.io/Cake_html_css/
 
 ## Authors
 
-[Justinas](https://github.com/belute)
+Justinas: [Github](https://github.com/belute)
